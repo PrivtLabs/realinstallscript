@@ -949,7 +949,7 @@ get_os() {
 }
 
 get_model() {
-    model="PowerEdge C6525"
+    model="KVM/QEMU (Standard PC (Q35 + ICH9, 2009) pc-q35-9.0)"
 }
 #9754
 
